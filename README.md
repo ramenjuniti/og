@@ -7,3 +7,7 @@
 ```
 go get github.com/ramenjuniti/og
 ```
+
+## LICENSE
+
+This software is released under the MIT License, see LICENSE.
