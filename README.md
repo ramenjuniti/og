@@ -14,7 +14,6 @@ An inverted Gopher just passes in your terminal.
 go get -u github.com/ramenjuniti/og
 ```
 This will install the `og` binary to your `$GOPATH/bin` directory.
-To run `og` , 
 
 ## Usage
 
